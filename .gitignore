@@ -1,0 +1,40 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Environment and local-only settings
+.env
+.env.*
+!.env.example
+
+# Build and cache outputs
+build/
+dist/
+out/
+coverage/
+.cache/
+
+# Archives and package artifacts
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Merge conflict and patch leftovers
+*.orig
+*.rej
