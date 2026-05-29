@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LetMeIn.Core/LetMeIn.Core.csproj" Id="b550dbb8-a012-4698-b9ff-bc14dcdaef22" />
+  <Project Path="LetMeIn.Tests/LetMeIn.Tests.csproj" Id="63ba17b3-a04b-43ac-8103-dad5af11be42" />
+</Solution>
