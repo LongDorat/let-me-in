@@ -1,0 +1,19 @@
+{
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:latest": {
+      "version": "2.5.9",
+      "resolved": "ghcr.io/devcontainers/features/common-utils@sha256:cb0c4d3c276f157eed17935747e364178d75fee17f55c4e129966f64633deb3a",
+      "integrity": "sha256:cb0c4d3c276f157eed17935747e364178d75fee17f55c4e129966f64633deb3a"
+    },
+    "ghcr.io/devcontainers/features/sshd:latest": {
+      "version": "1.1.0",
+      "resolved": "ghcr.io/devcontainers/features/sshd@sha256:f5251b8e4325f68f7280973c6cd65daff414449c66f240621502d4e8e74eb7ee",
+      "integrity": "sha256:f5251b8e4325f68f7280973c6cd65daff414449c66f240621502d4e8e74eb7ee"
+    },
+    "ghcr.io/postfinance/devcontainer-features/dotnet:latest": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/postfinance/devcontainer-features/dotnet@sha256:22bce48a820093d32fb49f321fd2ab37b18e0b0e68d73b3edd13bcffb9efaf63",
+      "integrity": "sha256:22bce48a820093d32fb49f321fd2ab37b18e0b0e68d73b3edd13bcffb9efaf63"
+    }
+  }
+}
