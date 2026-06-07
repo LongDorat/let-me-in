@@ -1,6 +1,6 @@
 namespace LetMeIn.Core.Interfaces
 {
-  public class IDatabaseService
-  {
-  }
+    public class IDatabaseService
+    {
+    }
 }

@@ -1,6 +1,6 @@
 namespace LetMeIn.Core.Interfaces
 {
-  public interface IQRProcessing
-  {
-  }
+    public interface IQRProcessing
+    {
+    }
 }

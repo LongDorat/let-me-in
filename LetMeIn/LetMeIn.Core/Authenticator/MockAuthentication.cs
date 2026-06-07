@@ -2,11 +2,11 @@ using LetMeIn.Core.Interfaces;
 
 namespace LetMeIn.Core.Authenticator
 {
-  public class MockAuthentication : IAuthenticator
-  {
-    public bool Run()
+    public class MockAuthentication : IAuthenticator
     {
-      return true;
+        public bool Run()
+        {
+            return true;
+        }
     }
-  }
 }

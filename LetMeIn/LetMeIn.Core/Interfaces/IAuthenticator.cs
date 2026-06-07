@@ -1,7 +1,7 @@
 namespace LetMeIn.Core.Interfaces
 {
-  public interface IAuthenticator
-  {
-    bool Run();
-  }
+    public interface IAuthenticator
+    {
+        bool Run();
+    }
 }

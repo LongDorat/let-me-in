@@ -1,6 +1,6 @@
 namespace LetMeIn.Core.Models
 {
-  public class CheckIn
-  {
-  }
+    public class CheckIn
+    {
+    }
 }
