@@ -4,7 +4,7 @@ namespace LetMeIn.Core.Interfaces
 {
     public interface IDatabaseService : IDisposable
     {
-        IDbConnection Connection { get; }
+        IDbConnection CreateConnection();
 
         void Initialize(string databasePath, string password);
 
