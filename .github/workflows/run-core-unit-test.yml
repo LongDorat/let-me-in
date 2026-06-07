@@ -3,6 +3,9 @@ name: Run Core Unit Test
 on:
   pull_request:
     branches: ["main"]
+    paths:
+      - "LetMeIn/**"
+  workflow_dispatch:
 
 jobs:
   test:
