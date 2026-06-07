@@ -1,6 +1,6 @@
 namespace LetMeIn.Core.Interfaces
 {
-  public interface IEmailService
-  {
-  }
+    public interface IEmailService
+    {
+    }
 }

@@ -1,6 +1,6 @@
 namespace LetMeIn.Core.Interfaces
 {
-  public interface ISyncEngine
-  {
-  }
+    public interface ISyncEngine
+    {
+    }
 }
